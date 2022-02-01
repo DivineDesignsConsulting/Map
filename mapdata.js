@@ -1,4 +1,4 @@
-<script>
+
 var simplemaps_usmap_mapdata={
   main_settings: {
    //General settings
@@ -572,4 +572,3 @@ var simplemaps_usmap_mapdata={
   },
   regions: {}
 };
-</script>
